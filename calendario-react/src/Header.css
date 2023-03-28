@@ -1,0 +1,27 @@
+.Header .row{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    
+}
+
+.right{
+    display: flex;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.user{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.home{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
